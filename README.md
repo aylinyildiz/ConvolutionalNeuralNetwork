@@ -1,2 +1,2 @@
-# ConvolutionalNeuralNetwork
+# ProcessingKernelMatrix
 Processing with kernel matrix
